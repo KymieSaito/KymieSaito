@@ -18,6 +18,31 @@ Sou **Pós-Doutora em Modelagem Numérica e Computacional (UFRRJ)**, com passage
 - **Linguagens & Ferramentas**: Python, SQL, SAS, MATLAB, Git, APIs RESTful
 
 ---
+### 🚀 Tecnologias que uso no dia a dia
+
+#### 🧪 Linguagens & Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-%231572B6?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQL-%2300f?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SAS-%23B4004E?style=for-the-badge&logo=sas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MATLAB-%23ff9100?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Spark-%23FF9900?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Hive-%23F0DC4E?style=for-the-badge&logo=apachehive&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Power%20BI-%23F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-MLflow-%230084FF?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Google%20Colab-%23F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+</p>
+
+#### 📊 Bibliotecas Python
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-004B87?style=for-the-badge&logo=seaborn&logoColor=white" />
+</p>
 
 ## 🧠 Projetos que me Orgulho
 

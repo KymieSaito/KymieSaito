@@ -38,11 +38,12 @@ Tenho paixão por **resolver problemas de negócio com dados**, entregando **ins
 
 ---
 
-## 📫 Contato
 
-- 📧 E-mail: [kymieksaito@gmail.com](mailto:kymieksaito@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/kymie-karina-saitoo](https://www.linkedin.com/in/kymie-karina-saitoo-ph-d-ufrj-28703316a)  
-- 📱 Telefone: +55 91 8616-9413  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kymie_Saito-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kymie-karina-saitoo-ph-d-ufrj-28703316a/?utm_source=github&utm_medium=portfolio&utm_campaign=perfil)
+
+[![E-mail](https://img.shields.io/badge/E--mail-kymieksaito@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kymieksaito@gmail.com?subject=Contato%20via%20GitHub%20Portfolio&body=Olá%20Kymie%2C%20vi%20seu%20portfólio%20no%20GitHub%20e%20gostaria%20de%20conversar%20sobre...)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Enviar%20mensagem-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/559186169413?text=Olá%20Kymie%2C%20vi%20seu%20portfólio%20no%20GitHub%20e%20gostaria%20de%20saber%20mais%20sobre%20sua%20experiência%20em%20Ciência%20de%20Dados!)
 
 ---
 

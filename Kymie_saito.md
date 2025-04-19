@@ -5,6 +5,31 @@ Olá! Sou **Cientista de Dados Pleno**, com sólida formação acadêmica e expe
 Sou **Pós-Doutora em Modelagem Numérica e Computacional (UFRRJ)**, com passagem marcante pelo **Bradesco**, onde atuei tanto no departamento de **Crédito** quanto em **Inteligência de Dados (Governança de Dados)**.
 
 ---
+  <p align="center">
+    <a href="/docs/readme_fr.md">Français </a>
+    ·
+    <a href="/docs/readme_cn.md">简体中文</a>
+    ·
+    <a href="/docs/readme_es.md">Español</a>
+    ·
+    <a href="/docs/readme_de.md">Deutsch</a>
+    ·
+    <a href="/docs/readme_ja.md">日本語</a>
+    ·
+    <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
+    ·
+    <a href="/docs/readme_it.md">Italiano</a>
+    ·
+    <a href="/docs/readme_kr.md">한국어</a>
+    ·
+    <a href="/docs/readme_nl.md">Nederlands</a>
+    ·
+    <a href="/docs/readme_np.md">नेपाली</a>
+    ·
+    <a href="/docs/readme_tr.md">Türkçe</a>
+  </p>
+</p>
+
 
 ## 🚀 Principais Competências
 
